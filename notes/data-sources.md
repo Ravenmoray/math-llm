@@ -4,7 +4,7 @@ Tier 1 — fully open, high quality, priority ingest:
 
 | Source | License | Format | Notes |
 |---|---|---|---|
-| OpenStax (Calc 1/2/3, Linear Algebra, College Algebra, Statistics, Precalc) | CC-BY 4.0 | HTML + LaTeX | Clean, well-structured. Scrape from openstax.org. |
+| OpenStax (Calc 1/2/3, Linear Algebra, College Algebra, Statistics, Precalc) | CC-BY 4.0 (content); CC-BY-NC-SA (repo bundle) | CNXML + MathML | Source on github.com/openstax/osbooks-*-bundle. **Ingested 2026-04-13:** 13 English books, 874 modules, 20 MB text. Spanish (precálculo) excluded. |
 | AIM Open Textbook Initiative | various CC | PMLbook / LaTeX | ~60 vetted titles. Judson Abstract Algebra, Beezer Linear Algebra, Trench Real Analysis, Hammack Book of Proof, Keisler Elementary Calculus, Sundstrom Mathematical Reasoning. |
 | Stein & Shakarchi Princeton Lectures | author-hosted PDFs | PDF | Real/Complex/Functional/Fourier. Not strictly open; flag. |
 | ProofWiki full dump | CC-BY-SA 4.0 | wikitext | ~30k proofs, extremely high signal. |
