@@ -1,0 +1,17 @@
+data/raw/
+data/clean/
+data/tokenized/
+checkpoints/
+logs/
+wandb/
+*.bin
+*.pt
+*.safetensors
+*.arrow
+*.parquet
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
